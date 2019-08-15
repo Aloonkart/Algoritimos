@@ -1,16 +1,16 @@
 Algoritmo "algoritimo_detector_de_viado"
-// DescriÁ„o: Este Algoritimo foi desenvolvido pura e simplismente com a finalidade de descontrair a equipe de ti da empresa onde trabalho, n„o È a intens„o do autor realizar ou difundir quaisquer pr·ticas de preconceito ou descriminaÁ„o sexual.
-// Autor(a)    : RogÈrio Lopes da Silva
+// Descri√ß√£o: Este Algoritimo foi desenvolvido pura e simplismente com a finalidade de descontrair a equipe de ti da empresa onde trabalho, n√£o √© a intens√£o do autor realizar ou difundir quaisquer pr√°ticas de preconceito ou descrimina√ß√£o sexual.
+// Autor(a)    : Rog√©rio Lopes da Silva
 // Data atual  : 10/04/2019
 Var
-// SeÁ„o de DeclaraÁıes das vari·veis
+// Se√ß√£o de Declara√ß√µes das vari√°veis
 
     nome: caractere
     idade: inteiro
     viado: logico
 
 Inicio
-// SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc...
+// Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc...
 
     viado <- verdadeiro
 
@@ -18,9 +18,9 @@ Inicio
     Leia (nome)
     Escreva ("Por favor informe sua idade: ")
     Leia (idade)
-    Escreva ("Por favor informe se vocÍ foi criado com vÛ: ")
+    Escreva ("Por favor informe se voc√™ foi criado com v√≥: ")
     Leia (nome)
-    Escreva ("Por favor informe se vocÍ È virgem: ")
+    Escreva ("Por favor informe se voc√™ √© virgem: ")
     Leia (nome)
     Escreva ("Em caso negativo, informe com quantos anos perdeu a virgindade: ")
     Leia (idade)
@@ -28,6 +28,6 @@ Inicio
     Leia (nome)
     Escreva ("Aguarde estamos calculando o resultado, aperte ENTER para continuar: ")
     Leia (nome)
-    Escreva ("Resultado, … VIADO !", viado)
+    Escreva ("Resultado, √â VIADO !", viado)
 
 Fimalgoritmo
