@@ -1,2 +1,0 @@
-# Algoritimos
-Repositório de algoritmos
