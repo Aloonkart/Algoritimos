@@ -1,10 +1,10 @@
 Algoritmo "primeiro_algoritimo"
-// Descrição   : Este Algorítimo mostra as características do usuário.
-// Autor(a)    : Rogério Lopes da Silva.
+// DescriÃ§Ã£o   : Este AlgorÃ­timo mostra as caracterÃ­sticas do usuÃ¡rio.
+// Autor(a)    : RogÃ©rio Lopes da Silva.
 // Data atual  : 09/04/2019.
 
 Var
-// Seção de Declarações das variáveis.
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis.
 
    nomeUtilizador: caractere
    idadeUtilizador: inteiro
@@ -12,9 +12,9 @@ Var
    estudante: logico
 
 Inicio
-// Seção de Comandos, procedimento, funções e operadores.
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes e operadores.
 
-      nomeUtilizador <- "Rogério"
+      nomeUtilizador <- "RogÃ©rio"
       idadeUtilizador <- 30
       alturaUtilizador <- 1.85
       estudante <- verdadeiro
